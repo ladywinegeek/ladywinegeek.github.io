@@ -259,11 +259,17 @@ margin: 0 auto -4em;
   line-height: 150%;
 } 
 
+.content_about p span {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
 /* RESUME PAGE */
 
 .content_about h4 {
    color: #2F122F;
 }
+
 
 
 /*Footer */
